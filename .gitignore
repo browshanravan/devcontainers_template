@@ -176,3 +176,12 @@ cython_debug/
 #Devcontainer
 !.devcontainer
 .vscode
+
+#OS env variables
+*.DS_Store
+
+#Python dotenv-vault file system
+.env*
+.flaskenv*
+!.env.project
+!.env.vault

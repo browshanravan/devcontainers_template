@@ -2,7 +2,7 @@
 
 This `README.md` was created using my package [README_genie](https://github.com/browshanravan/README_genie).
 
-A generic, Docker-based development container template that bootstraps a Python workspace—either as a standard package or a Streamlit app—ready to be used in GitHub Codespaces or any local environment supporting Dev Containers.
+A generic, Docker-based development container template that bootstraps a Python workspace — either as a standard package or a Streamlit app—ready to be used in GitHub Codespaces or any local environment supporting Dev Containers.
 
 ## About This Project
 
